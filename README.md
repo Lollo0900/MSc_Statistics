@@ -7,7 +7,7 @@ The Term 1 courses are:
 * Probability for Statistics
 * Data Science
 
-More info can be found in the [MSc Statistics]{https://www.imperial.ac.uk/mathematics/postgraduate/msc/statistics/} webpage.
+More info can be found in the [MSc Statistics](https://www.imperial.ac.uk/mathematics/postgraduate/msc/statistics/) webpage.
 <!--
 This is a comment
 -->
